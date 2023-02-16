@@ -9,7 +9,6 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>armoury-user-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>armoury-user-server</name>
     <description>armoury-user-server</description>
     <packaging>jar</packaging>

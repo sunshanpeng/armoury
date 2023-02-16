@@ -22,8 +22,9 @@
         <revision>0.0.1-SNAPSHOT</revision>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <kotlin.version>1.7.22</kotlin.version>
+        <kotlin.version>1.8.10</kotlin.version>
         <hutool.version>5.4.4</hutool.version>
+        <knife4j.version>4.0.0</knife4j.version>
     </properties>
     <dependencyManagement>
         <dependencies>
